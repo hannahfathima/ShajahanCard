@@ -1,0 +1,19 @@
+{
+  "projects": {
+    "default": "profilcard",
+    "profilcard": "profilcard",
+    "no": "profilcard",
+    "firsttap": "profilcard"
+  },
+  "targets": {
+    "profilcard": {
+      "hosting": {
+        "firsttap": [
+          "firsttap"
+        ]
+      }
+    }
+  },
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
